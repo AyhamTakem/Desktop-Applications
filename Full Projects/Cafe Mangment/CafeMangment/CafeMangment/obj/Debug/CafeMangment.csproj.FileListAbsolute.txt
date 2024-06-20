@@ -1,0 +1,17 @@
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\bin\Debug\CafeMangment.exe.config
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\bin\Debug\CafeMangment.exe
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\bin\Debug\CafeMangment.pdb
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\obj\Debug\CafeMangment.csproj.AssemblyReference.cache
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\obj\Debug\CafeMangment.Form1.resources
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\obj\Debug\CafeMangment.Properties.Resources.resources
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\obj\Debug\CafeMangment.csproj.GenerateResource.cache
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\obj\Debug\CafeMangment.csproj.CoreCompileInputs.cache
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\obj\Debug\CafeMangment.csproj.CopyComplete
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\obj\Debug\CafeMangment.exe
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\obj\Debug\CafeMangment.pdb
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\bin\Debug\Guna.UI.dll
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\obj\Debug\CafeMangment.GuestOrder.resources
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\obj\Debug\CafeMangment.UserOrder.resources
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\obj\Debug\CafeMangment.ItemsForm.resources
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\obj\Debug\CafeMangment.UsersForm.resources
+D:\مشاريع C#\code spa\مشروع إدارة كافي صغير\CafeMangment\CafeMangment\obj\Debug\CafeMangment.ViewOrders.resources
