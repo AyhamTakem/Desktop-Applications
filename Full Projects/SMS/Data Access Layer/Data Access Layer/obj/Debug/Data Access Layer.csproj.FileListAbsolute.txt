@@ -1,0 +1,14 @@
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\obj\Debug\Data Access Layer.csproj.AssemblyReference.cache
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\obj\Debug\Data_Access_Layer.PL.FRM_MAIN.resources
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\obj\Debug\Data_Access_Layer.Properties.Resources.resources
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\obj\Debug\Data Access Layer.csproj.GenerateResource.cache
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\bin\Debug\Data Access Layer.exe.config
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\bin\Debug\Data Access Layer.exe
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\bin\Debug\Data Access Layer.pdb
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\obj\Debug\Data Access Layer.exe
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\obj\Debug\Data Access Layer.pdb
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\bin\Debug\DB_Student.mdf
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\bin\Debug\DB_Student_log.ldf
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\obj\Debug\Data_Access_Layer.FRM_LOGIN.resources
+D:\مشاريع C#\مشروع نهاية دورة C# tku\Data Access Layer\Data Access Layer\obj\Debug\Data_Access_Layer.PL.FRM_ADDandEDIT.resources
