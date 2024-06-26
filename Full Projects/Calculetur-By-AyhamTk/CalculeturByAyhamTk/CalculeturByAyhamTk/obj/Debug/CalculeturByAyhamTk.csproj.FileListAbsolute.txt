@@ -1,0 +1,10 @@
+D:\مشاريع C#\مشروع الة حاسبة بسيطة\CalculeturByAyhamTk\CalculeturByAyhamTk\bin\Debug\CalculeturByAyhamTk.exe.config
+D:\مشاريع C#\مشروع الة حاسبة بسيطة\CalculeturByAyhamTk\CalculeturByAyhamTk\bin\Debug\CalculeturByAyhamTk.exe
+D:\مشاريع C#\مشروع الة حاسبة بسيطة\CalculeturByAyhamTk\CalculeturByAyhamTk\bin\Debug\CalculeturByAyhamTk.pdb
+D:\مشاريع C#\مشروع الة حاسبة بسيطة\CalculeturByAyhamTk\CalculeturByAyhamTk\obj\Debug\CalculeturByAyhamTk.csproj.AssemblyReference.cache
+D:\مشاريع C#\مشروع الة حاسبة بسيطة\CalculeturByAyhamTk\CalculeturByAyhamTk\obj\Debug\CalculeturByAyhamTk.Form1.resources
+D:\مشاريع C#\مشروع الة حاسبة بسيطة\CalculeturByAyhamTk\CalculeturByAyhamTk\obj\Debug\CalculeturByAyhamTk.Properties.Resources.resources
+D:\مشاريع C#\مشروع الة حاسبة بسيطة\CalculeturByAyhamTk\CalculeturByAyhamTk\obj\Debug\CalculeturByAyhamTk.csproj.GenerateResource.cache
+D:\مشاريع C#\مشروع الة حاسبة بسيطة\CalculeturByAyhamTk\CalculeturByAyhamTk\obj\Debug\CalculeturByAyhamTk.csproj.CoreCompileInputs.cache
+D:\مشاريع C#\مشروع الة حاسبة بسيطة\CalculeturByAyhamTk\CalculeturByAyhamTk\obj\Debug\CalculeturByAyhamTk.exe
+D:\مشاريع C#\مشروع الة حاسبة بسيطة\CalculeturByAyhamTk\CalculeturByAyhamTk\obj\Debug\CalculeturByAyhamTk.pdb
