@@ -1,0 +1,2202 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<title>قم بتنزيل Psiphon 179.20230815 لـ Windows | Uptodown.com</title>
+<meta charset="utf-8" />
+<meta name="description" content="قم بتنزيل أحدث نسخة لـ Psiphon لـ Windows. توفير ولوج للأنترنيت لأولئك الذين يعانون من الرقابة. Psiphon هي أداة مفتوحة المصدر مصممة لكي تتحايل على الرقابة..."/>
+<meta name="keywords" content="تنزيل psiphon windows, psiphon windows, psiphon windows تنزيل مجانًا"/>
+<meta name="author" content="Uptodown Technologies SL"/>
+<link rel="canonical" href="https://psiphon.ar.uptodown.com/windows/download" type="text/html"/><meta name="robots" content="all" />
+<link rel="alternate" hreflang="en" href="https://psiphon.en.uptodown.com/windows/download" type="text/html" /><link rel="alternate" hreflang="es" href="https://psiphon.uptodown.com/windows/descargar" type="text/html" /><link rel="alternate" hreflang="pt" href="https://psiphon.br.uptodown.com/windows/download" type="text/html" /><link rel="alternate" hreflang="de" href="https://psiphon.de.uptodown.com/windows/download" type="text/html" /><link rel="alternate" hreflang="fr" href="https://psiphon.fr.uptodown.com/windows/telecharger" type="text/html" /><link rel="alternate" hreflang="it" href="https://psiphon.it.uptodown.com/windows/download" type="text/html" /><link rel="alternate" hreflang="zh" href="https://psiphon.cn.uptodown.com/windows/download" type="text/html" /><link rel="alternate" hreflang="ja" href="https://psiphon.jp.uptodown.com/windows/download" type="text/html" /><link rel="alternate" hreflang="ru" href="https://psiphon.ru.uptodown.com/windows/download" type="text/html" /><link rel="alternate" hreflang="ko" href="https://psiphon.kr.uptodown.com/windows/download" type="text/html" /><link rel="alternate" hreflang="id" href="https://psiphon.id.uptodown.com/windows/download" type="text/html" /><link rel="alternate" hreflang="ar" href="https://psiphon.ar.uptodown.com/windows/download" type="text/html" /><link rel="alternate" hreflang="th" href="https://psiphon.th.uptodown.com/windows/download" type="text/html" /><link rel="alternate" hreflang="tr" href="https://psiphon.tr.uptodown.com/windows/download" type="text/html" /><link rel="alternate" hreflang="hi" href="https://psiphon.in.uptodown.com/windows/download" type="text/html" /><meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<meta name="domain" content="uptodown.com">
+<meta name="theme-color" content="#fff"/>
+<meta name="gdpr" content="0"/>
+<link rel="preconnect" href="https://img.utdstc.com">
+<link rel="dns-prefetch" href="https://img.utdstc.com">
+<link rel="preconnect" href="https://stc.utdstc.com">
+<link rel="dns-prefetch" href="https://stc.utdstc.com">
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://ssm.codes">
+<link rel="icon" type="image/png" href="https://stc.utdstc.com/favicon.png" sizes="192x192"/>
+<link rel="preload" href="https://stc.utdstc.com/fonts/geomanist-medium-webfont-test.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://stc.utdstc.com/fonts/geomanist-regular-webfont-test.woff2" as="font" type="font/woff2" crossorigin>
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "Uptodown",
+"url": "https://www.uptodown.com",
+"logo": "https://stc.utdstc.com/img/mediakit/isotipo.png",
+"sameAs": [
+"https://www.facebook.com/Uptodown",
+"https://twitter.com/Uptodown",
+"https://www.youtube.com/user/UptodownVideos",
+"https://www.uptodown.io",
+"https://www.wikidata.org/wiki/Q6157280"
+]
+}
+</script>
+<style>
+@font-face {
+font-family: 'geomanistmedium';
+src: url('https://stc.utdstc.com/fonts/geomanist-medium-webfont-test.woff2') format('woff2');
+font-weight: 500;
+font-style: normal;
+font-display: swap;
+}
+@font-face {
+font-family: 'geomanistregular';
+src: url('https://stc.utdstc.com/fonts/geomanist-regular-webfont-test.woff2') format('woff2');
+font-weight: 400;
+font-style: normal;
+font-display: swap;
+}
+</style>
+<script type="application/ld+json">
+{
+"@context":"http://schema.org",
+"@type":"WebPage",
+"url":"https://psiphon.ar.uptodown.com/windows",
+"isPartOf":{
+"@type": "WebSite",
+"name": "Uptodown",
+"url" : "https://ar.uptodown.com/windows",
+"publisher" : {"@id" : "https://ar.uptodown.com/#organization"},
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://ar.uptodown.com/windows/search/{search_term_string}",
+"query-input": "required name=search_term_string"
+}
+},
+"mainEntity":{
+"@type":"SoftwareApplication",
+"name":"Psiphon",
+"url":"https://psiphon.ar.uptodown.com/windows",
+"description":"توفير ولوج للأنترنيت لأولئك الذين يعانون من الرقابة",
+"image": "https://img.utdstc.com/icon/046/e5f/046e5f1d77a202a7f9037f3aff06884676a6a45057c46a7d76c9ba869a098525",
+"operatingSystem":"Windows",
+"softwareVersion":"179.20230815",
+"datePublished":"2023-08-16",
+"interactionStatistic":{
+"@type": "InteractionCounter",
+"interactionType": "http://schema.org/DownloadAction",
+"userInteractionCount": "10111703"
+},
+"applicationCategory":"HomeApplication",
+"applicationSubCategory":"الاتصال",
+"author":{
+"@type":"Organization",
+"name":"CitizenLab",
+"mainEntityOfPage":{
+"@type": "WebPage",
+"@id": "https://ar.uptodown.com/developer/citizenlab"
+},
+"url":"http://psiphon.ca/"
+},
+"offers": {
+"@type": "Offer",
+"price": "0",
+"priceCurrency":"EUR"
+},
+"aggregateRating":{
+"@type":"AggregateRating",
+"ratingValue": "3.9",
+"ratingCount": "27",
+"bestRating":"5",
+"worstRating":"0"
+},
+"screenshot":[
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/71b/eb4/71beb47d30160894244284fc4158eca72aed7928f652ca4e3916a4873d28c2fb:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/2a1/048/2a1048de4bf93a28da47c0956096602d694d251273b231233b4165e67f28f08a:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/26f/81e/26f81eb9e23997c82d934f0363274d7d7682df24b729351b3f0b8b588d3fdef3:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/7cf/d70/7cfd702d92cc4ae0ca24ccd065d2c0ffe8302c61109203cfd941713a8be8ce6b:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/8e7/15c/8e715c7d665df1ac7d010469a8ee440853dbe9567e847a235166cdc657aa6fef:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/28a/3ce/28a3ce3f3796198dbba3e49ab18501c86e1d18e78cbe972fa6429d76a48fea8f:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/45d/021/45d021a1afd63c8fd0d0595a3b5e15ddd04c07472b8dc283656bf3fa4bea2e48:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/b14/56c/b1456c0b7ced83bd415b6d29bf33ff9643a591f14599e881e73df22ab9d2b387:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/840/4cb/8404cbfdca0115adc3fa2b5c7cec0c5280b10d4e42d35caaf9d82b4e0665358b:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/dbd/565/dbd5651216f8b6f0b57a41005af63aceb99c0ee8f08a4f573a493c7dc77cc9e4:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/443/c5b/443c5b2fdfc35fa4d81a6a0e95e2eb114727106a502524c4f5fd9ca895f18365:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/7f2/0c9/7f20c9eb6b0504e55886bc1c98742a06bc54f671d49f5650a14506f3c4d4ce18:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/407/1b2/4071b2ec56e6f2787ffa9fc04248fc2ff6027f0d71b26141e58d3f25bd97739c:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/236/24b/23624baeec38b2e6ea7129d86405a7446fae379171acc794aa9fde76ce90f94f:600"
+},
+{
+"@type": "ImageObject",
+"url":"https://img.utdstc.com/screen/cd6/151/cd61516f6597bb53e7618d791e78728f4930389c1342f84c3471ad6d1ef3958a:600"
+} ]
+,
+"inLanguage":[
+{
+"@type": "Language",
+"name": "Arabic"
+},
+{
+"@type": "Language",
+"name": "Croatian"
+},
+{
+"@type": "Language",
+"name": "Dutch"
+},
+{
+"@type": "Language",
+"name": "English"
+},
+{
+"@type": "Language",
+"name": "Farsi"
+},
+{
+"@type": "Language",
+"name": "Finnish"
+},
+{
+"@type": "Language",
+"name": "French"
+},
+{
+"@type": "Language",
+"name": "Greek"
+},
+{
+"@type": "Language",
+"name": "Japanese"
+},
+{
+"@type": "Language",
+"name": "Korean"
+},
+{
+"@type": "Language",
+"name": "Norwegian"
+},
+{
+"@type": "Language",
+"name": "Portuguese"
+},
+{
+"@type": "Language",
+"name": "Russian"
+},
+{
+"@type": "Language",
+"name": "Spanish"
+},
+{
+"@type": "Language",
+"name": "Turkish"
+},
+{
+"@type": "Language",
+"name": "Vietnamese"
+}] }
+}
+</script>
+<script type="application/ld+json">
+{
+"@context":"http://schema.org",
+"@type":"BreadcrumbList",
+"itemListElement":[
+{
+"@type": "ListItem",
+"position": 1,
+"name": "Windows",
+"item": "https://ar.uptodown.com/windows"
+},
+{
+"@type": "ListItem",
+"position": 2,
+"name": "الإنترنت",
+"item": "https://ar.uptodown.com/windows/internet"
+},
+{
+"@type": "ListItem",
+"position": 3,
+"name": "الاتصال",
+"item": "https://ar.uptodown.com/windows/connection"
+},
+{
+"@type": "ListItem",
+"position": 4,
+"name": "Psiphon",
+"item": "https://psiphon.ar.uptodown.com/windows"
+},
+{
+"@type": "ListItem",
+"position": 5,
+"name": "تنزيل",
+"item": "https://psiphon.ar.uptodown.com/windows/download"
+} ]
+}
+</script>
+<script>
+var ssmCodes = document.createElement('script');
+ssmCodes.type = 'text/javascript';
+ssmCodes.src = 'https://ssm.codes/smart-tag/uptodown.js';
+document.getElementsByTagName('head')[0].appendChild(ssmCodes);
+ssmCodes.onerror = function() {
+var ssmCodesFallback = document.createElement('script');
+ssmCodesFallback.src = 'https://img.utdstc.com/apps/js/uptodown.js';
+document.head.appendChild(ssmCodesFallback)
+}
+</script>
+<link rel="preload" href="https://stc.utdstc.com/1692343850079/vendor.css" as="style">
+<link rel="stylesheet" media="print" onload="this.media='all'" href="https://stc.utdstc.com/1692343850079/vendor.css">
+<noscript><link rel="stylesheet" media="all" href="https://stc.utdstc.com/1692343850079/vendor.css"></noscript>
+<link rel="preload" href="https://stc.utdstc.com/1692343850079/download.css" as="style">
+<link rel="stylesheet" media="print" onload="this.media='all'" href="https://stc.utdstc.com/1692343850079/download.css">
+<noscript><link rel="stylesheet" media="all" href="https://stc.utdstc.com/1692343850079/download.css"></noscript>
+<link rel="preload" href="https://stc.utdstc.com/1692343850079/download-arabic.css" as="style">
+<link rel="stylesheet" media="print" onload="this.media='all'" href="https://stc.utdstc.com/1692343850079/download-arabic.css">
+<noscript><link rel="stylesheet" media="all" href="https://stc.utdstc.com/1692343850079/download-arabic.css"></noscript>
+<script defer type="text/javascript" src="https://stc.utdstc.com/1692343850079/vendor.js"></script>
+<script defer type="text/javascript" src="https://stc.utdstc.com/1692343850079/download.js"></script>
+</head>
+<style>
+.ad {position: relative;z-index: 2;display: table;margin: 0 auto 0;}
+.detail + .ad {min-height: 100px;}
+.info {font-family: 'geomanistregular', sans-serif;color: #1F4E5A;font-size: 12px;clear: both;}
+.info .content {padding: 0 10px;width: 100%;}
+.info .content tbody {display: grid;grid-template-columns: 50% 50%;}
+.info .content tbody tr.full {grid-column-start: 1;grid-column-end: 3;}
+.info .content tbody tr {word-break: break-word;padding: 0;}
+.info .content tbody tr td:nth-child(2) {font-family: 'geomanistmedium', sans-serif;display: block;margin: 6px 0 5px 50px;padding: 0;line-height: 1;text-align: left;}
+.info .content tbody tr td img {width: 40px;height: 40px;margin: 0;vertical-align: middle;}
+.info .content tbody tr td label {display: block;font-family: 'geomanistmedium', sans-serif;}
+.info + .ad {margin: 20px auto;}
+.info .content tbody tr td div:last-child, .info .content tbody tr th div:last-child {display: inline-block;color: #00AAD5;cursor: pointer;font-weight: 600;text-decoration: underline;}
+.info .content tbody li {list-style: circle;}
+.info .content tbody .requirements-list {padding-left: 20px;}
+.info .content tbody tr td a, .info .content tbody tr th a {color: #00AAD5;font-family: 'geomanistmedium', sans-serif;text-decoration: underline;}
+.notice {
+box-shadow: 0 0 15px rgba(0,0,0,.09);
+padding: 10px;
+border-radius: 10px;
+margin-bottom: 10px;
+min-height: 55px;
+position: relative;
+}
+.notice:not(.review) {
+cursor:pointer;
+}
+.notice div {
+font-family: 'geomanistregular', sans-serif;
+font-size: 12px;
+font-weight: 300;
+color:#757575;
+margin-top: 2px;
+}
+.notice div a {
+font-weight: 600;
+text-decoration: underline;
+}
+.notice.not-available {
+font-weight: 600;
+font-size: 12px;
+display: flex;
+align-items: center;
+margin: 0 10px 10px;
+cursor: initial;
+padding: 0 10px;
+}
+.notice.not-available img {
+margin: 0 20px 0 10px;
+filter: brightness(0) saturate(100%) invert(67%) sepia(71%) saturate(5707%) hue-rotate(159deg) brightness(98%) contrast(101%);
+}
+.notice.not-available + span {
+font-size: 12px;
+margin: 0 10px;
+display: block;
+text-align: center;
+color: #00aad5;
+text-decoration: underline;
+}
+.notice.xapk img + div {
+font-size: 12px;
+font-weight: 600;
+color:#00AAD5;
+}
+.notice.review {
+height: 200px;
+box-sizing: border-box;
+display: table;
+}
+.notice.xapk {
+margin: 0 10px 10px;
+border: 1px solid #00AAD5;
+}
+.notice.xapk div {
+font-family: 'geomanistregular', sans-serif;
+font-size: 10px;
+font-weight: 300;
+color:#00AAD5;
+}
+.note {
+font-family: 'geomanistregular', sans-serif;
+padding: 10px;
+color: #1F4E5A;
+background: #EDF3F4;
+margin: 10px;
+line-height: 1.8;
+border-radius: 10px;
+font-size: 14px;
+}
+.note p {
+font-family: 'geomanistmedium', sans-serif;
+}
+@media (max-width: 360px){
+.info .content tbody tr {
+grid-column-start: 1;
+grid-column-end: 3;
+}
+}
+@media (min-width: 426px) {
+.notice.xapk {max-width: 300px;}
+}
+@media (min-width: 996px) {
+.detail + .ad {min-height: auto;}
+.info .content {padding: 0 20px;}
+.info + .ad {margin: 10px auto;}
+.info .content tbody tr.full {
+grid-column-start: auto;
+grid-column-end: auto;
+}
+.notice.xapk {
+max-width: 300px;
+margin: -9px 0 10px 20px;
+display: block;
+padding-bottom: 15px;
+}
+.notice.not-available {
+font-size: 14px;
+margin: 0 20px 10px;
+width: fit-content;
+padding-right: 20px;
+}
+.notice.not-available + span {
+margin: 0 20px;
+text-align: left;
+}
+.notice.review {
+width: 100%;
+margin: 0;
+}
+.notice.review, .notice.review .picture {
+height: 100%;
+padding: 20px;
+}
+.note {
+margin: 20px;
+padding: 20px;
+font-size: 16px;
+}
+}
+@media (prefers-color-scheme: dark) {
+.down img {filter: opacity(0.1);}
+.notice, .notice.xapk {border: 1px solid #333;}
+.notice div, .notice.xapk div {color:#ccc;}
+.notice img + div, .notice.xapk img + div{color:white;}
+.note {background: #1F4E5A;color: white;}
+.arrow-svg {filter: invert(0.8) grayscale(0.9) brightness(0.35);}
+.info .content {color:#7F949A;}
+.info .content tbody tr td div:last-child, .info .content tbody tr th div:last-child, .info .content tbody tr td a, .info .content tbody tr th a {color: white;}
+.notice.not-available { color: white;}
+}
+.down {
+position: absolute;
+top: 20px;
+left: 22px;
+right: auto;
+width: fit-content;
+overflow: hidden;
+z-index: 0;
+transform: scale(1.5) scaleX(-1);
+}
+.arrow-svg {
+position: absolute;
+margin-top: -51px;
+left: 30px;
+z-index: 1;
+}
+.notice img {
+float: right;
+position: relative;
+margin: 10px 10px 10px 20px;
+}
+.notice.xapk img {
+margin: 0 0 0 10px;
+}
+.notice.review div {
+padding-right: 115px;
+}
+.notice.review img {
+display: none;
+}
+.notice.review .picture {
+padding: 0;
+position: absolute;
+top: 0;
+right: 0;
+height: 100%;
+width: 115px;
+border-radius: 0 5px 5px 0;
+object-fit: cover;
+margin: 0;
+display: block;
+}
+.notice.review button {
+font-family: 'geomanistregular', sans-serif;
+float: left;
+margin: 10px 0 0;
+background: #00AAD5;
+color: white;
+border: 0;
+padding: 10px 20px;
+border-radius: 10px;
+clear: both;
+}
+.info .content tbody tr td:first-child {
+width: 40px;
+float: right;
+padding: 0;
+display: table-row;
+}
+.info .content tbody tr td {
+vertical-align: middle;
+padding: 0 0 0 8px;
+text-align: right;
+line-height: 1;
+margin-bottom: 10px;
+}
+@media (min-width: 426px) {
+.arrow-svg {
+right: 270px;
+left: auto;
+margin-top: 34px;
+}
+}
+@media (min-width: 996px) {
+.down {
+position: absolute;
+top: 80px;
+left: 22px;
+transform: scale(1.5) scaleX(-1);
+}
+.notice {
+width: 100%;
+box-sizing: border-box;
+margin-right: 10px;
+display: inline-block;
+}
+.notice:first-child {
+margin-right: 0;
+}
+.arrow-svg {
+margin-top: 45px;
+}
+.notice.xapk {
+margin: -9px 20px 0 0;
+}
+}
+</style>
+<body>
+<div class="content" id="ar">
+<style>
+a,abbr,acronym,address,applet,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,dl,dt,em,embed,fieldset,figcaption,figure,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video {margin: 0;padding: 0;border: 0;font-size: 100%;font: inherit;vertical-align: baseline;text-rendering: geometricPrecision;}
+html {overflow-y: scroll;}
+body > .content {max-width: 996px;min-height: 1000px;margin: auto;background: white;position: relative;}
+a {text-decoration: none;color: inherit;cursor:pointer;}
+.hidden {display: none;}
+section {position: relative;overflow: hidden;}
+section .content {padding: 0 10px 10px; clear: both;}
+section .title-row {display: flex;align-items: center;justify-content: flex-start;padding: 10px;}
+section .title {font-family: 'geomanistmedium', sans-serif;color: #1F4E5A;font-size: 16px;text-transform: capitalize;}
+section .title-row + span {font-family: 'geomanistregular', sans-serif;color: #1F4E5A;font-size: 14px;padding: 0 10px 0;display: block;line-height: 20px; margin-bottom: 20px;}
+section .title + .more {padding: 0 10px 0;}
+section .title + .more img {line-height: 1;display:block;}
+header {display:flex;position:fixed;top:0;height:50px;width: 100%;z-index:4;background: white;justify-content: space-between;}
+header div, header a {-ms-flex-align: center;align-items: center;display: -ms-flexbox;display: inline-flex;-ms-flex-pack: center;justify-content: center;cursor:pointer;}
+header .menu-button {height: 50px;width: 50px;}
+header .menu-button img {position: relative;z-index: -1;}
+header .search {height: 50px;width: 50px;}
+header > img {display: none; cursor: pointer;}
+header .logo img {height: 20px;}
+.change-platform {display: none;}
+.nav-main, .shadow {transition: all .5s cubic-bezier(.165,.84,.44,1);transition-timing-function: cubic-bezier(.165,.84,.44,1);}
+.nav-main {position: fixed;top: 0;right: 0;bottom: 0;left: -256px;width: 256px;height: auto;z-index: 5;background: white;overflow: auto;}
+.ad .title {font-family: 'geomanistregular', sans-serif;font-size: 9px;text-transform: uppercase;text-align: center;color: #757575;align-self: end;
+grid-auto-rows: min-content;}
+.select-platform {display: none;}
+@media (min-width: 996px) {
+section .title-row {padding: 10px 20px 20px;}
+section .title {font-size: 18px;}
+section .content {padding: 0 20px 15px;}
+section .title-row + span {padding: 0 20px 10px;}
+header {max-width: 996px;margin: auto;left:0;right:0;position: relative;height: 80px;}
+header .menu-button, header .search {width: 80px; height: 80px;}
+.change-platform {transform: rotate(270deg);display: block;position: absolute;right: 60px; top: 7px;}
+.select-platform {width: 80px;height: fit-content;background: white;position: absolute;z-index: 2;right: 80px;border-radius: 0 0 5px 5px;box-shadow: 0px 4px 4px 4px rgba(0, 0, 0, 0.05); display: none;}
+.select-platform.show {display: grid;}
+.select-platform img { padding: 20px 30px; filter: brightness(0) saturate(100%) invert(58%) sepia(81%) saturate(3812%) hue-rotate(158deg) brightness(95%) contrast(101%);}
+.select-platform img:first-child {filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-rotate(232deg) brightness(101%) contrast(102%);z-index: 1;padding: 30px;}
+.select-platform:after {content: ''; width: 80px; height: 80px; background: #00AAD5; position: absolute; top: 0; left: 0;z-index: 0;}
+.select-platform img:hover {box-shadow: inset 0 0 0px 3px #00AAD5;}
+.select-platform img:first-child:hover {box-shadow: none;}
+}
+body {
+background: #eeeeee;
+font-family: 'geomanistregular', sans-serif;
+margin: 0;
+direction: rtl;
+unicode-bidi: bidi-override;
+text-align: right;
+}
+.panel {
+overflow: auto;
+position: fixed;
+top: 0;
+bottom: 0;
+width: 100%;
+height: auto;
+z-index: 5;
+background: #fff;
+right: -100%;
+left: -520px;
+}
+.nav-main {
+position: fixed;
+top: 0;
+right: 0;
+bottom: 0;
+right: -256px;
+width: 256px;
+height: auto;
+z-index: 5;
+background: white;
+overflow: auto;
+}
+.panel .header div div.left {
+float: right;
+}
+section .title + .more img {
+transform: rotate(0);
+height: fit-content;
+}
+@media (min-width: 767px) {
+.panel {
+position: fixed;
+top: 0;
+left: -520px;
+bottom: 0;
+left: auto;
+width: 520px;
+height: auto;
+}
+}
+@media (min-width: 996px) {
+header > img {
+display: block;
+filter: brightness(0) saturate(100%) invert(58%) sepia(81%) saturate(3812%) hue-rotate(158deg) brightness(95%) contrast(101%);
+padding: 30px;
+margin-left: 0;
+margin-right: auto;
+}
+header .logo {
+transform: scale(1.5);
+margin-right: auto;
+margin-left: -80px;
+height: 57px;
+padding-top: 10px;
+}
+.change-platform {
+left:60px;
+right: auto;
+}
+}
+@media (prefers-color-scheme: dark) {
+body {background: #09191d;}
+body > .content {background: #0F292F;}
+header {background: #0F292F;}
+header .logo img {filter: brightness(0) saturate(100%) invert(99%) sepia(28%) saturate(2142%) hue-rotate(165deg) brightness(83%) contrast(84%);}
+.select-platform {background: #333333;}
+section .title {color: white;}
+section .title-row + span {color:#7F949A;}
+.nav-main {background: #1F4E5A;}
+.ad .title {color:#ccc;}
+section .title + span {color: #ccc;}
+.panel {background: #1F4E5A;}
+}
+</style>
+<header>
+<div id="menu-button-id" class="menu-button">
+<img alt="" id="menu-button-id" width="24" height="20" src="https://stc.utdstc.com/img/svgs/icon-bar-menu.svg">
+</div>
+<a href="https://ar.uptodown.com/windows" class="logo">
+<img height="20" width="157" src="https://stc.utdstc.com/img/svgs/logo-uptodown.svg" data-src="https://stc.utdstc.com/img/svgs/logo-uptodown.svg" alt="تنزيل واكتشاف و مشاركة">
+</a>
+<img alt="Windows" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-20-windows.svg">
+<img id="change-platform-button" class="change-platform" alt="" width="10" height="10" src="https://stc.utdstc.com/img/svgs/icon-bar-arrow.svg">
+<div id="select-platform" class="select-platform">
+<img class="platform-selection" alt="windows" data-href="https://ar.uptodown.com/windows" width="20" height="20" src="https://stc.utdstc.com/img/menu-windows.svg">
+<img class="platform-selection" alt="mac" data-href="https://ar.uptodown.com/mac" width="20" height="20" src="https://stc.utdstc.com/img/menu-mac.svg">
+<img class="platform-selection" alt="android" data-href="https://ar.uptodown.com/android" width="20" height="20" src="https://stc.utdstc.com/img/menu-android.svg">
+</div>
+<div id="search-button" class="search">
+<img alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-bar-search.svg">
+</div>
+</header>
+<form id="searchForm" class="f-search hidden" action="https://ar.uptodown.com/windows/search" method="post">
+<button aria-label="Search" name="singlebutton" type="submit">
+<img loading="lazy" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-bar-search.svg">
+</button>
+<input required id="buscador" label="Search" name="q" placeholder="برامج بحث" type="text" autocomplete="off">
+<div id="closeSearchForm">
+<img class="close" loading="lazy" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-bar-close.svg">
+</div>
+</form>
+<ul id="lookup_suggest" class="hidden suggestion-list"></ul>
+<style>
+.breadcrumb {font-family: 'geomanistregular', sans-serif;display: inline-block;width:auto;box-sizing: border-box;}
+.breadcrumb.father::-webkit-scrollbar {display: none;}
+.breadcrumb a {margin-bottom: 5px; display: inline-block;}
+.breadcrumb span {color:#7F949A;padding: 3px 0;font-size: 8px;text-transform: uppercase;margin:1px;}
+.breadcrumb .path_separator {padding: 0 3px;line-height: 22px;}
+.breadcrumb > span:not(.path_separator) {font-family: 'geomanistmedium', sans-serif;color:#00AAD5;}
+.breadcrumb span:lang(th){font-size: 12px;}
+@media (prefers-color-scheme: dark) {
+.breadcrumb span {}
+.breadcrumb > span:not(.path_separator) {color:white;}
+}
+@media (min-width: 996px) {
+}
+.breadcrumb.father {
+height: fit-content;
+padding: 50px 10px 0 0;
+overflow-x: auto;
+overflow-y: hidden;
+white-space: nowrap;
+width: 100%;
+-webkit-overflow-scrolling: touch;
+position: relative;
+z-index: 1;
+}
+@media (min-width: 996px) {
+.breadcrumb.father {
+padding-top: 10px;
+height: 30px;
+padding-right: 20px;
+margin-left: 0;
+}
+}
+</style>
+<div class="breadcrumb father">
+<a href="https://ar.uptodown.com/windows">
+<span>Windows</span>
+</a>
+<span class="path_separator">/</span>
+<div class="breadcrumb">
+<a href="https://ar.uptodown.com/windows/internet">
+<span >الإنترنت</span>
+</a>
+<span class="path_separator">/</span>
+<div class="breadcrumb">
+<a href="https://ar.uptodown.com/windows/connection">
+<span >الاتصال</span>
+</a>
+<span class="path_separator">/</span>
+<div class="breadcrumb">
+<a href="https://psiphon.ar.uptodown.com/windows">
+<span >Psiphon</span>
+</a>
+<span class="path_separator">/</span>
+<div class="breadcrumb">
+<span >تنزيل</span>
+</div></div></div></div></div>
+<style>
+.detail {font-family: 'geomanistregular', sans-serif;color:#333333;z-index: 1;position: relative;}
+.detail > div {display: table-cell;vertical-align: top;margin-bottom: 10px;}
+.detail + .ad {min-height: 261px;width: 100%; display: grid;align-items: center;grid-template-rows: 10px auto;}
+.detail .icon {min-width: 120px;height: 114px;}
+.detail .icon img {max-height: 100px;max-width: 100px;width: auto;height: auto;margin: 0 10px 10px;font-size: 12px;word-break: break-word;border-radius: 10px;}
+.detail .info h1 {font-family: 'geomanistmedium', sans-serif;font-size: 18px;line-height: 18px;word-break: break-word;font-weight: initial;}
+.detail .info .version {font-family: 'geomanistregular', sans-serif;font-size: 12px;color:#00AAD5;font-weight: 300;margin-top: 5px;word-break: break-all;}
+.detail .info .version span.beta {color: #00AAD5;border: 1px solid #00AAD5;border-radius: 10px;padding: 2px 5px 2px;font-size: 8px;display: inline-flex;margin: 0 5px;top: -1px;position: relative;}
+.detail .info .autor {font-family: 'geomanistregular', sans-serif;font-size: 12px;color: #7F949A;margin-bottom: 5px; margin-top: 5px;font-weight: 300;}
+.detail .info .autor a {padding: 5px 0;}
+.detail .info span.onBoard {color:#1F4E5A;background: #FFC94F;border-radius: 10px;padding: 3px 10px 3px;font-weight: 400;font-size: 8px; display: inline-flex;text-transform: uppercase;float:left;
+margin-right: 5px;border: 1px solid #FFC94F;}
+.detail .info > div {margin-top: 3px;}
+.detail .stats {font-family: 'geomanistregular', sans-serif;display: flex;height:15px;box-sizing: border-box;font-size: 12px;padding: 0 10px 0;color:#1F4E5A;overflow-y: hidden; white-space: nowrap; width: 100%; -webkit-overflow-scrolling: touch;line-height: 15px;}
+.detail .stats div.dwstat img {filter: brightness(0) saturate(100%) invert(67%) sepia(1%) saturate(0%) hue-rotate(205deg) brightness(92%) contrast(93%);}
+.detail .stats img {filter: brightness(0) saturate(100%) invert(42%) sepia(96%) saturate(1431%) hue-rotate(159deg) brightness(97%) contrast(103%);position: relative;top: 1px;}
+.detail .stats .blue {cursor: pointer;}
+.detail .stats .blue:hover {color:#00AAD5;}
+.detail h2 {font-family: 'geomanistregular', sans-serif;font-size: 14px;font-weight: 300;padding: 10px;color:#1F4E5A;}
+.button-group {display: block;}
+.button b, .button h3, .button strong {font-family: 'geomanistregular', sans-serif;font-size: 16px; line-height: 20px;display: block; align-self: center;}
+.button h3, .button strong {line-height: 16px; margin-top: 5px;font-family: 'geomanistmedium', sans-serif;}
+.button strong { text-align: left; margin-top: 0;}
+.button p {font-size: 10px;font-weight: 300;display: inline-flex;margin-right: 10px;text-transform: capitalize;font-family: 'geomanistregular', sans-serif; margin-top: 5px;}
+.button p.version, .button p.size {font-family: 'geomanistmedium', sans-serif;}
+.button.last, .button.secondary {background: #00AAD5;}
+.button.secondary {font-family: 'geomanistmedium', sans-serif;order:1;background: #71679E;display: flex;margin-right: 10px;margin-bottom: 10px;font-size: 16px;flex-direction: column;box-sizing: border-box; height: 57px;line-height: 20px;padding-top: 13px;}
+.button.secondary span {font-size: 8px;color: #B8B3CE;float: right;margin:0;text-align: left; line-height: 1; text-transform: lowercase;}
+.button.secondary span img {margin: 0 0 0 2px;float: none;vertical-align: middle;}
+.button.download, .button.last {cursor: pointer;}
+.button.download, .button.last, .button.deactivate {min-width: 200px;height: initial;box-sizing: border-box;order:2;border: 0; padding: 10px 20px;}
+.button.deactivate {display: grid; margin-right: 10px; border:1px dashed #00AAD5; color: #00AAD5;padding: 16px;}
+.button.deactivate b {display: table-cell;vertical-align: middle;font-size: 20px;}
+.button.deactivate p {display: table-footer-group;}
+.button.deactivate span {font-weight: 600;}
+.button.deactivate strong {text-align: center;}
+.button.deactivate + span {font-size: 12px;display:block;margin: 0 10px 10px; color:#999; text-align:center;}
+.button.deactivate + span a {font-weight: 600;cursor:pointer;text-decoration: underline;color: #0081A2;}
+.button.download {background: #348402;}
+.button.download {background: #4CAF50; height: 61px;}
+.button.download.xapk p {padding: 0;font-size: 8px;margin: 5px 0;vertical-align: middle;text-transform: uppercase;display: flex; align-items: center;}
+html:lang(zh-CN) .button.download.xapk p, html:lang(ko-KR) .button.download.xapk p, html:lang(tr-TR) .button.download.xapk p, html:lang(ja-JP) .button.download.xapk p {margin-top: 0;}
+.button.download.xapk p img {margin: -1px 3px 0 6px;filter: brightness(0) saturate(100%) invert(98%) sepia(0%) saturate(2%) hue-rotate(14deg) brightness(118%) contrast(100%);}
+html:lang(ko-KR) .button.download.xapk p img, html:lang(tr-TR) .button.download.xapk p img, html:lang(hi-IN) .button.download.xapk p img {margin-left: 0;}
+html:lang(hi-IN) .button.download.xapk p {line-height: 0;}
+.button.download.xapk div {background: white;color: #4CAF50;border: 1px solid #4CAF50;border-radius: 10px;position: absolute;top: -8px;right: 10px;font-size: 8px;padding: 5px 10px;font-family: 'geomanistregular', sans-serif;text-transform: uppercase;}
+.button.download.xapk + div {border: 1px solid #7F949A; border-radius: 10px;color:#7F949A;font-size: 10px;margin: 0 10px 10px;padding: 10px;font-weight: 300;padding-left: 40px;
+position: relative;}
+.button.download.xapk + div img {position: absolute;left: 10px;margin: auto;top: 0;bottom: 0;filter: brightness(0) saturate(100%) invert(25%) sepia(36%) saturate(679%) hue-rotate(145deg) brightness(95%) contrast(95%);}
+.button.download.xapk + div b {font-family: 'geomanistmedium', sans-serif;}
+.button.download.xapk + div + div {display: flex;align-items: center;justify-content: space-between; margin: 0 10px;}
+.button.download.xapk + div + div p {font-size: 12px;color:#7F949A;}
+.button.download.xapk + div + div button {background: white; border: 1px solid #B59FC2;font-size: 10px;font-family: 'geomanistmedium', sans-serif;padding:10px 10px 8px; margin: 0; text-transform: uppercase; color:#B59FC2;}
+.button.version {font-family: 'geomanistmedium', sans-serif;border:1px solid #00AAD5;min-width: max-content;margin-top: 0; color:#00AAD5;font-size: 10px;text-transform: uppercase;padding: 10px;}
+.button.badge {font-family: 'geomanistregular', sans-serif;border:1px solid #7F949A;color:#7F949A;border-radius: 10px;padding: 3px 10px 3px;font-weight: 400;font-size: 8px; display: inline-flex;text-transform: uppercase;float:left;box-sizing: border-box;margin: 0;}
+article {color: #1F4E5A;padding: 10px;font-family: 'geomanistregular', sans-serif;font-size: 14px;line-height: 2;clear: both; margin-bottom: 30px;}
+article b {font-family: 'geomanistmedium', sans-serif;}
+article h2 {font-family: 'geomanistmedium', sans-serif;font-size: 16px;}
+article h2 span {font-family: 'geomanistregular', sans-serif;}
+@media (prefers-color-scheme: dark) {
+.detail .icon img {color: #7F949A;}
+.detail .info h1, .detail h2 {color:white;}
+.detail .info .autor, .detail .stats {color:#7F949A;}
+.detail .info .version {color:#00AAD5;}
+.detail h2 {color:#7F949A;}
+.button.version {border: 1px solid white;color: white;}
+.button.badge {border: 1px solid white;color: white;}
+article {color: #7F949A;}
+}
+@media (min-width: 425px) {
+.button-group {display: block;float: left;}
+.button.download {min-width: 322px; width: fit-content;height: 61px;}
+.button.secondary {max-width: fit-content;margin-top: 10px;min-width: 160px;display: inline-flex;margin-right: 0;}
+.button.deactivate + span { text-align:left;margin: 0 10px 10px;}
+section {clear: both;}
+.button.version {margin-top: 36px;}
+.button.secondary + .button.version {margin-top: 0;}
+.button.download.xapk + div {width: 322px; box-sizing: border-box;margin-right: 0;}
+}
+@media (min-width: 996px) {
+.detail {padding: 10px 20px 20px;}
+.detail > div {margin-bottom: 0px;}
+.detail + .ad {min-height: 100px;}
+.detail .icon img {margin: 0;}
+.detail .info h1 {font-size: 36px;line-height: 32px;}
+.detail .info .version {font-size: 14px;}
+.detail .info .version span.beta {vertical-align: middle;margin: 0 5px 5px;top:1px;}
+.detail .info .autor {margin-bottom: 2px; font-size: 14px;}
+.detail h2 {font-size: 16px;margin: 5px 0;padding: 10px 0 10px;}
+.detail .stats {font-size: 14px;padding: 0;height: 20px;line-height: 20px;}
+.detail .stats div {padding: 0 20px;}
+.button.download, .button.last {min-width: 300px;display: inline-block;}
+.button.deactivate {min-width: 300px;}
+.button.secondary {display: inline-flex;max-width: none; min-width: 200px;margin:20px 0 0 20px;vertical-align: top;}
+.button.deactivate + span { text-align:left;margin: -10px 20px 20px;}
+.button.secondary + .button.version {margin-bottom: 0;margin-left: 17px;}
+.button.version {margin-top: 46px;}
+article {padding: 20px; font-size: 16px;}
+article h2 {font-family: 'geomanistmedium', sans-serif;font-size: 18px;}
+.button.download.xapk {margin-bottom: 10px;}
+.button.download.xapk + div {margin:0 0 10px 20px;width: 300px; box-sizing: border-box;}
+.button.download.xapk + div + div {width: 300px; margin: 10px 0 10px 20px;}
+.button.download.xapk + div + div p {width: 180px;}
+.detail .info span.onBoard, .button.badge {margin: 5px 5px 0 0;}
+}
+@media (max-width: 425px) {
+.button.last {margin: 10px;display: block;}
+.button.download {margin: 10px;display: block; width: calc(100% - 20px);}
+}
+.sticky_ad {display: none;}
+.detail .info {
+padding: 0 0 10px 10px;
+}
+.detail .info .autor a {
+margin-left: 5px;
+}
+.detail .info span.onBoard {
+float: right;
+margin: 5px 0 0 5px;
+}
+.detail .stats div {
+border-right: 1px solid #7F949A;
+padding: 0 10px;
+}
+.detail .stats .dwstat {
+direction: ltr;
+}
+.detail .stats .dwstat img {
+float: right;
+margin-top: 1px;
+}
+.detail .stats img {
+margin-left: 5px;
+vertical-align: initial;
+}
+.detail .stats div:first-child {
+border: 0;
+padding: 0 0 0 10px;
+cursor: pointer;
+}
+.button {
+padding: 10px 20px;
+display: inline-block;
+vertical-align: bottom;
+margin: 10px 10px 10px 0;
+color: white;
+border-radius: 10px;
+z-index: 1;
+position: relative;
+}
+.button p.version {
+margin-right: 0;
+}
+.button.secondary {
+margin-left: 10px;
+}
+.button.secondary span {
+text-align: right;
+direction: ltr;
+}
+.button.download, .button.last, .button.deactivate {
+text-align: right;
+}
+.button.download strong {
+margin-bottom: 5px;
+text-align: right;
+}
+.button.download.xapk p img {
+margin: 0 6px 0 3px;
+}
+@media (min-width: 425px) {
+.button-group {
+display: block;
+float: right;
+margin-left: 10px;
+}
+.button.secondary {
+margin-right: 10px;
+margin-left: 0;
+margin-top: 10px;
+}
+.button.secondary + .button.version {;
+margin-right: 10px;
+}
+.button.version {
+margin-top: 30px;
+margin-right: 0;
+}
+}
+@media (min-width: 996px) {
+.button-group {
+margin-left: 20px;
+}
+.detail .stats img {
+vertical-align: initial;
+margin-left: 5px;
+margin-right: 0;
+}
+.detail .stats .dwstat img {
+margin-top: 4px;
+}
+.button {
+margin: 20px 20px 20px 0;
+}
+.ad.text {
+min-width: 360px;
+min-height: 250px;
+float: right;
+margin: 0 0 10px 20px;
+}
+.button.secondary {
+margin-right: 0;
+margin-top: 20px;
+margin-left: 10px;
+}
+.button.version {
+margin-top: 40px
+}
+.button.secondary + .button.version {;
+margin-right: 5px;
+}
+}
+</style>
+<div class="detail">
+<div class="icon">
+<img width="100" height="100"
+alt="Psiphon icon"
+itemprop="image"
+src="https://img.utdstc.com/icon/046/e5f/046e5f1d77a202a7f9037f3aff06884676a6a45057c46a7d76c9ba869a098525"
+srcset="https://img.utdstc.com/icon/046/e5f/046e5f1d77a202a7f9037f3aff06884676a6a45057c46a7d76c9ba869a098525:100, https://img.utdstc.com/icon/046/e5f/046e5f1d77a202a7f9037f3aff06884676a6a45057c46a7d76c9ba869a098525:200 2x "
+>
+</div>
+<div class="info">
+<a href="https://psiphon.ar.uptodown.com/windows">
+<h1 id="detail-app-name" code="5653" data-file-id="106887783">
+Psiphon </h1>
+</a> <div class="version">179.20230815</div>
+<div class="autor">
+<a id="author-link" href="https://ar.uptodown.com/developer/citizenlab" target="_self"
+onclick="addEventAnalytics('authorLink', {'event_category': 'author'});">
+CitizenLab</a>
+</div>
+</div>
+<div class="stats">
+<div>
+<span id="show-comments_app" class="blue"
+onclick="addEventAnalytics('comments', {'event_category': 'app'});">
+27 آراء </span>
+</div>
+<div class="dwstat">
+10.1 M عدد مرات التنزيل </div>
+<div>
+<span id="virus-total-report" class="blue" file-id="106887783">
+<img alt="" width="12" height="12" src="https://stc.utdstc.com/img/svgs/icon-12-shield.svg">
+</span>
+</div>
+</div>
+<h2 >توفير ولوج للأنترنيت لأولئك الذين يعانون من الرقابة</h2>
+</div>
+<div class="ad">
+<div class="title">
+الإشهار </div>
+<div id="header_ad" class="ad" onclick="addEventAnalytics('adex_download', {'event_category': 'ads'});">
+</div>
+</div>
+<div class="button-group">
+<button id="detail-download-button" class="button download "
+data-url="https://dw.uptodown.com/dwn/akK42RZbGMW_xOhFPQIWuuh-dzLdFse0FsFATAqNFX-x-YBC905IaDJUYemR69wY0TYVYTaQV0pgqLJf5nKDYbjRn8cJF3wo546Hbn7mgGYc6-Pwy4uras8kjyGyptiz/M1w4QCQnsaB7KhPY_sfwuovgWKQffmmZ066H7YzFuQS0Yd2LHc-seTEt0SdrBQ12YLCjTZrsMtztj_gquXyvO35pCRleLXlNmVZaS8j3yZvK6mw9GbPxUynskNnZxQh5/Zw3NwJsNBFjFHki-7yli571JYa9mc2lTMzdo-elbGZ4hLzIFmPALzIHkYq9p_ymmolnD5HeEWrn7KrGcGgU3gw==/"
+title="تنزيل psiphon مجانًا"
+rel="nofollow" onclick="addEventAnalytics('downloadApp', {'event_category': 'download-link'});">
+<strong>تنزيل</strong><p class="size">7.45 MB</p>
+<p>مجانًا</p></button>
+</div>
+<section name="item-row-section"
+class="item-row ">
+<div class="title-row">
+<a style="pointer-events: none; cursor: default;" name="item-section-anchor" class="title" href="https://ar.uptodown.com/windows/connection">
+<h2>التطبيقات الموصى بها لك</h2>
+</a>
+</div>
+<div class="content">
+<div class="item">
+<figure
+onclick="
+location.href='https://opera-gx.ar.uptodown.com/windows';
+addEventAnalytics('recommended', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+alt="Opera GX icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/59d/498/59d498f7747641b20e28686b9b8ddb3fec639cf5b7eae62531e64762e4f1963a"
+srcset="https://img.utdstc.com/icon/59d/498/59d498f7747641b20e28686b9b8ddb3fec639cf5b7eae62531e64762e4f1963a:100 1x, https://img.utdstc.com/icon/59d/498/59d498f7747641b20e28686b9b8ddb3fec639cf5b7eae62531e64762e4f1963a:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://opera-gx.ar.uptodown.com/windows" title="تنزيل Opera GX">Opera GX</a>
+</div>
+<div class="description">متصفح موجه لعشاق الألعاب</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://microsoft-pc-manager.ar.uptodown.com/windows';
+addEventAnalytics('recommended', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+alt="Microsoft PC Manager icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/a23/668/a236686e281ea8a80bc451e4eb0d74aa91b99277634e3a52f4c488f2c015bde8"
+srcset="https://img.utdstc.com/icon/a23/668/a236686e281ea8a80bc451e4eb0d74aa91b99277634e3a52f4c488f2c015bde8:100 1x, https://img.utdstc.com/icon/a23/668/a236686e281ea8a80bc451e4eb0d74aa91b99277634e3a52f4c488f2c015bde8:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://microsoft-pc-manager.ar.uptodown.com/windows" title="تنزيل Microsoft PC Manager">Microsoft PC Manager</a>
+</div>
+<div class="description">اعتني بجهاز الكمبيوتر الخاص بك وقم بتحسين أدائه</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://wps-office.ar.uptodown.com/windows';
+addEventAnalytics('recommended', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+alt="WPS Office icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/6b0/f30/6b0f30c3c90a02bf73b37da28b0cbbc704ebe5341fdf1a44ddf6f6a7a91e475e"
+srcset="https://img.utdstc.com/icon/6b0/f30/6b0f30c3c90a02bf73b37da28b0cbbc704ebe5341fdf1a44ddf6f6a7a91e475e:100 1x, https://img.utdstc.com/icon/6b0/f30/6b0f30c3c90a02bf73b37da28b0cbbc704ebe5341fdf1a44ddf6f6a7a91e475e:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://wps-office.ar.uptodown.com/windows" title="تنزيل WPS Office">WPS Office</a>
+</div>
+<div class="description">أداة تحرير مع ميزات قوية</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://opera.ar.uptodown.com/windows';
+addEventAnalytics('recommended', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+alt="Opera icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/49b/aaf/49baaf2115c61e007f11fc0149e6851cb38c3bdd31a5eb82da690dec6c55c6ff"
+srcset="https://img.utdstc.com/icon/49b/aaf/49baaf2115c61e007f11fc0149e6851cb38c3bdd31a5eb82da690dec6c55c6ff:100 1x, https://img.utdstc.com/icon/49b/aaf/49baaf2115c61e007f11fc0149e6851cb38c3bdd31a5eb82da690dec6c55c6ff:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://opera.ar.uptodown.com/windows" title="تنزيل Opera">Opera</a>
+</div>
+<div class="description">متصفح قوي ومتعدد الاستخدامات وقابل للتخصيص</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://hotspot-shield.ar.uptodown.com/windows';
+addEventAnalytics('recommended', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+alt="Hotspot Shield VPN icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/3ed/979/3ed979020d445322eb4d0a0c45828790ce829b5ad7fa16105a2dfa135ba24154"
+srcset="https://img.utdstc.com/icon/3ed/979/3ed979020d445322eb4d0a0c45828790ce829b5ad7fa16105a2dfa135ba24154:100 1x, https://img.utdstc.com/icon/3ed/979/3ed979020d445322eb4d0a0c45828790ce829b5ad7fa16105a2dfa135ba24154:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://hotspot-shield.ar.uptodown.com/windows" title="تنزيل Hotspot Shield VPN">Hotspot Shield VPN</a>
+</div>
+<div class="description">تصفح الإنترنت بشكل آمن ومجهول</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://google-chrome.ar.uptodown.com/windows';
+addEventAnalytics('recommended', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+alt="Google Chrome icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/4e7/aaf/4e7aafb59a83b9d8d461b7843563f97d79974a3f04e0870b0f396e01b230c319"
+srcset="https://img.utdstc.com/icon/4e7/aaf/4e7aafb59a83b9d8d461b7843563f97d79974a3f04e0870b0f396e01b230c319:100 1x, https://img.utdstc.com/icon/4e7/aaf/4e7aafb59a83b9d8d461b7843563f97d79974a3f04e0870b0f396e01b230c319:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://google-chrome.ar.uptodown.com/windows" title="تنزيل Google Chrome">Google Chrome</a>
+</div>
+<div class="description">تجربة تصفح أنترنت سريعة و سهلة و نقية من جوجل</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://internet-download-manager.ar.uptodown.com/windows';
+addEventAnalytics('recommended', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+alt="Internet Download Manager icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/2b6/7d8/2b67d8d47efc520e4f344d41cf59eb0344846f0c93fd5cf2b7d0d4914e22dd2d"
+srcset="https://img.utdstc.com/icon/2b6/7d8/2b67d8d47efc520e4f344d41cf59eb0344846f0c93fd5cf2b7d0d4914e22dd2d:100 1x, https://img.utdstc.com/icon/2b6/7d8/2b67d8d47efc520e4f344d41cf59eb0344846f0c93fd5cf2b7d0d4914e22dd2d:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://internet-download-manager.ar.uptodown.com/windows" title="تنزيل Internet Download Manager">Internet Download Manager</a>
+</div>
+<div class="description">قم بتسريع تنزيلاتك مع هذا المدبر القوي</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://viber.ar.uptodown.com/windows';
+addEventAnalytics('recommended', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+alt="Viber icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/cc2/f16/cc2f16d1ed6181fe6b65e82189e7fffaf70cb564f850cb94ef4a9ac14305da33"
+srcset="https://img.utdstc.com/icon/cc2/f16/cc2f16d1ed6181fe6b65e82189e7fffaf70cb564f850cb94ef4a9ac14305da33:100 1x, https://img.utdstc.com/icon/cc2/f16/cc2f16d1ed6181fe6b65e82189e7fffaf70cb564f850cb94ef4a9ac14305da33:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://viber.ar.uptodown.com/windows" title="تنزيل Viber">Viber</a>
+</div>
+<div class="description">نسخة سطح المكتب من التطبيق الشهير للدردشة والـ VoIP</div>
+</div>
+</div>
+</section>
+<div class="ad">
+<div class="title">
+الإشهار </div>
+<div class="content_lower_ad lazy_custom ad" id="content_lower_ad">
+</div>
+</div>
+<section class="info" id="technical-information">
+<div class="title-row">
+<span class="title"><h2>معلومات أكثر</h2></span>
+</div>
+<table class="content">
+<tr>
+<td><img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-40-license.svg"></td>
+<td scope="row">ترخيص</th>
+<td>مجانًا</td>
+</tr>
+<tr>
+<td><img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-40-system.svg"></td>
+<td scope="row">نظام التشغيل</th>
+<td>Windows</td>
+</tr>
+<tr>
+<td><img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-40-category.svg"></td>
+<td scope="row">الفئة</th>
+<td><a href="https://ar.uptodown.com/windows/connection">الاتصال</a></td>
+</tr>
+<tr>
+<td><img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-40-language.svg"></td>
+<td scope="row">اللغة</th>
+<td>
+العربية <div id="language-apps">15 المزيد</div>
+</td>
+</tr>
+<tr>
+<td><img loading="lazy" class="color" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-40-author.svg"></td>
+<td scope="row">المؤلف</th>
+<td><a href="http://psiphon.ca/" target="_blank" rel="noopener nofollow">
+CitizenLab</a>
+</td>
+</tr>
+<tr>
+<td><img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-40-size.svg"></td>
+<td scope="row">الحجم</th>
+<td>7.45 MB</td>
+</tr>
+<tr>
+<td><img loading="lazy" class="color" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-40-downloads.svg"></td>
+<td scope="row">التنزيلات</th>
+<td>10,111,703</td>
+</tr>
+<tr>
+<td><img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-40-date.svg"></td>
+<td scope="row">التاريخ</th>
+<td>16 أغسطس 2023</td>
+</tr>
+<tr>
+<td><img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-40-type.svg"></td>
+<td scope="row">نوع الملف</th>
+<td>EXE</td>
+</tr>
+<tr>
+<td><img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-40-rating.svg"></td>
+<td scope="row">تقييم المحتوى</th>
+<td>كل الفئات العمرية</td>
+</tr>
+<tr class="full">
+<td><img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-40-sha256.svg"></td>
+<td scope="row">SHA256</th>
+<td>8d874ab7c7c4434c7c0279b774d0bc86929b44003d4667d831abc38cfe80b22f</td>
+</tr>
+<tr class="full">
+<td><img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-40-why.svg"></td>
+<td scope="row">لماذا تم نشر هذا التطبيق على Uptodown؟</th>
+<td>
+<a href="https://support.uptodown.com/hc/en-us/articles/4403243577613" target="_blank" rel="noopener nofollow">
+(معلومات أكثر) </a>
+</td>
+</tr>
+</table>
+</section>
+<section class="platforms">
+<div class="title-row">
+<span class="title">متوفر من أجل المنصات الأخرى</span>
+</div>
+<div class="content">
+<div>
+<a href="https://psiphon.ar.uptodown.com/android">
+<span class="android">
+<img alt="android" loading=lazy width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-20-android.svg">
+</span>
+<span>PsiPhon لـ Android</span>
+</a>
+</div> </div>
+</section>
+<div class="ad">
+<div class="title">
+الإشهار </div>
+<div id="content_ad_bottom" class="ad content_ad_bottom lazy_bottom">
+</div>
+</div>
+<section name="item-row-section"
+class="item-row ">
+<div class="title-row">
+<a style="pointer-events: none; cursor: default;" name="item-section-anchor" class="title" href="https://ar.uptodown.com/windows/vpn-apps">
+<h2>VPN Apps</h2>
+</a>
+<button name="item-section-more" type="button" class="more"
+onclick="addEventAnalytics('item-viewMore', {'event_category': 'item'});">
+<img alt="عرض المزيد" width="10" height="26"
+src="https://stc.utdstc.com/img/svgs/icon-bar-arrow.svg"
+>
+</button>
+</div>
+<div class="content">
+<div class="item">
+<figure
+onclick="
+location.href='https://hotspot-shield.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Hotspot Shield VPN icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/3ed/979/3ed979020d445322eb4d0a0c45828790ce829b5ad7fa16105a2dfa135ba24154"
+srcset="https://img.utdstc.com/icon/3ed/979/3ed979020d445322eb4d0a0c45828790ce829b5ad7fa16105a2dfa135ba24154:100 1x, https://img.utdstc.com/icon/3ed/979/3ed979020d445322eb4d0a0c45828790ce829b5ad7fa16105a2dfa135ba24154:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://hotspot-shield.ar.uptodown.com/windows" title="تنزيل Hotspot Shield VPN">Hotspot Shield VPN</a>
+</div>
+<div class="description">تصفح الإنترنت بشكل آمن ومجهول</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://viscosity.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Viscosity icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/d5f/fdf/d5ffdf529b35f5851d3b4c3e2adadce7e88e265bc134ea33f5e201e20b4af354"
+srcset="https://img.utdstc.com/icon/d5f/fdf/d5ffdf529b35f5851d3b4c3e2adadce7e88e265bc134ea33f5e201e20b4af354:100 1x, https://img.utdstc.com/icon/d5f/fdf/d5ffdf529b35f5851d3b4c3e2adadce7e88e265bc134ea33f5e201e20b4af354:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://viscosity.ar.uptodown.com/windows" title="تنزيل Viscosity">Viscosity</a>
+</div>
+<div class="description">الدرجة الأولى لعملاء المسنجر</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://hola-unblocker.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Hola Unblocker icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/36f/f03/36ff0347258813400620983d422f523cc271f6d1f7b4d0e10f5fc8f73803c97f"
+srcset="https://img.utdstc.com/icon/36f/f03/36ff0347258813400620983d422f523cc271f6d1f7b4d0e10f5fc8f73803c97f:100 1x, https://img.utdstc.com/icon/36f/f03/36ff0347258813400620983d422f523cc271f6d1f7b4d0e10f5fc8f73803c97f:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://hola-unblocker.ar.uptodown.com/windows" title="تنزيل Hola Unblocker">Hola Unblocker</a>
+</div>
+<div class="description">فك بيانات الصفحات الممنوعة في الجهات</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://proxpn.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="proXPN icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/ae5/eb1/ae5eb1a6f1d9fa6987c68691cb98e8980c5addd0014c076a8748b79e744e79ac"
+srcset="https://img.utdstc.com/icon/ae5/eb1/ae5eb1a6f1d9fa6987c68691cb98e8980c5addd0014c076a8748b79e744e79ac:100 1x, https://img.utdstc.com/icon/ae5/eb1/ae5eb1a6f1d9fa6987c68691cb98e8980c5addd0014c076a8748b79e744e79ac:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://proxpn.ar.uptodown.com/windows" title="تنزيل proXPN">proXPN</a>
+</div>
+<div class="description">لإخفاء عنوان IP خاصتك لتتصفح الإنترنت بأمان دون إجراءات منع جغرافية</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://forticlient.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="FortiClient icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/d5f/629/d5f629bbf368b735799a374d99fcf8f7ee210bb1a96b089d7cc608c73edd7060"
+srcset="https://img.utdstc.com/icon/d5f/629/d5f629bbf368b735799a374d99fcf8f7ee210bb1a96b089d7cc608c73edd7060:100 1x, https://img.utdstc.com/icon/d5f/629/d5f629bbf368b735799a374d99fcf8f7ee210bb1a96b089d7cc608c73edd7060:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://forticlient.ar.uptodown.com/windows" title="تنزيل FortiClient">FortiClient</a>
+</div>
+<div class="description">تصفح بسهولة واحمي حاسوبك</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://vpn-shield.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="VPN Shield icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/12f/bbc/12fbbc0d268a783126b9713d8e514f6d20a850d7d65080437d65208eb8095362"
+srcset="https://img.utdstc.com/icon/12f/bbc/12fbbc0d268a783126b9713d8e514f6d20a850d7d65080437d65208eb8095362:100 1x, https://img.utdstc.com/icon/12f/bbc/12fbbc0d268a783126b9713d8e514f6d20a850d7d65080437d65208eb8095362:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://vpn-shield.ar.uptodown.com/windows" title="تنزيل VPN Shield">VPN Shield</a>
+</div>
+<div class="description">حماية اتصال الإنترنت الخاص بك بسهولة</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://x-vpn-anti-track-and-unblock.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="X-VPN - Anti-Track & Unblock icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/fa7/ada/fa7adaebc31e60e1ba80d38bf130f897603366df467dacac922d6d37c935bdd2"
+srcset="https://img.utdstc.com/icon/fa7/ada/fa7adaebc31e60e1ba80d38bf130f897603366df467dacac922d6d37c935bdd2:100 1x, https://img.utdstc.com/icon/fa7/ada/fa7adaebc31e60e1ba80d38bf130f897603366df467dacac922d6d37c935bdd2:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://x-vpn-anti-track-and-unblock.ar.uptodown.com/windows" title="تنزيل X-VPN - Anti-Track & Unblock">X-VPN - Anti-Track & Unblock</a>
+</div>
+<div class="description">لتصفح الإنترنت بأمان وبهوية مجهولة</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://okayfreedom-vpn.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="OkayFreedom VPN icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/136/425/136425f0e9e79ea7d2b174dd5a1716c8b120ed851160a1d83fdac06a838abbac"
+srcset="https://img.utdstc.com/icon/136/425/136425f0e9e79ea7d2b174dd5a1716c8b120ed851160a1d83fdac06a838abbac:100 1x, https://img.utdstc.com/icon/136/425/136425f0e9e79ea7d2b174dd5a1716c8b120ed851160a1d83fdac06a838abbac:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://okayfreedom-vpn.ar.uptodown.com/windows" title="تنزيل OkayFreedom VPN">OkayFreedom VPN</a>
+</div>
+<div class="description">تصفح الويب بأمان وقم بإلغاء قفل المحتوى المقيد</div>
+</div>
+</div>
+</section>
+<section name="item-row-section"
+class="item-row ">
+<div class="title-row">
+<a style="pointer-events: none; cursor: default;" name="item-section-anchor" class="title" href="https://ar.uptodown.com/windows/open-source-apps">
+<h2>Open Source Apps</h2>
+</a>
+<button name="item-section-more" type="button" class="more"
+onclick="addEventAnalytics('item-viewMore', {'event_category': 'item'});">
+<img alt="عرض المزيد" width="10" height="26"
+src="https://stc.utdstc.com/img/svgs/icon-bar-arrow.svg"
+>
+</button>
+</div>
+<div class="content">
+<div class="item">
+<figure
+onclick="
+location.href='https://peazip.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="PeaZip icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/012/0ca/0120caea1af81c707d1091619ade9ae265f2fdf7117a5d3c2642b6e5be705bf5"
+srcset="https://img.utdstc.com/icon/012/0ca/0120caea1af81c707d1091619ade9ae265f2fdf7117a5d3c2642b6e5be705bf5:100 1x, https://img.utdstc.com/icon/012/0ca/0120caea1af81c707d1091619ade9ae265f2fdf7117a5d3c2642b6e5be705bf5:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://peazip.ar.uptodown.com/windows" title="تنزيل PeaZip">PeaZip</a>
+</div>
+<div class="description">أداة لضغط الملفات مع وظائف تشفير</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://money-manager-ex.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Money Manager Ex icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/2ba/626/2ba626a4214ced1eb855a997bb891dede9cd9f5d47d87d37e7e4b1f2864971be"
+srcset="https://img.utdstc.com/icon/2ba/626/2ba626a4214ced1eb855a997bb891dede9cd9f5d47d87d37e7e4b1f2864971be:100 1x, https://img.utdstc.com/icon/2ba/626/2ba626a4214ced1eb855a997bb891dede9cd9f5d47d87d37e7e4b1f2864971be:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://money-manager-ex.ar.uptodown.com/windows" title="تنزيل Money Manager Ex">Money Manager Ex</a>
+</div>
+<div class="description">طريقة سهلة لتدبير المالية الخاصة بك</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://drupal.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Drupal icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/db6/f4f/db6f4ffd529949ee007d024154482bb0318d1bff5f3067a4b275fe20fe686a07"
+srcset="https://img.utdstc.com/icon/db6/f4f/db6f4ffd529949ee007d024154482bb0318d1bff5f3067a4b275fe20fe686a07:100 1x, https://img.utdstc.com/icon/db6/f4f/db6f4ffd529949ee007d024154482bb0318d1bff5f3067a4b275fe20fe686a07:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://drupal.ar.uptodown.com/windows" title="تنزيل Drupal">Drupal</a>
+</div>
+<div class="description">أداة مفتوحة المصدر لتدبير المحتوى</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://gimp.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="GIMP icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/dfb/3a4/dfb3a49e7c2d4269970486d74007d6380c0e7ca66a94ea554164987f1c8649fe"
+srcset="https://img.utdstc.com/icon/dfb/3a4/dfb3a49e7c2d4269970486d74007d6380c0e7ca66a94ea554164987f1c8649fe:100 1x, https://img.utdstc.com/icon/dfb/3a4/dfb3a49e7c2d4269970486d74007d6380c0e7ca66a94ea554164987f1c8649fe:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://gimp.ar.uptodown.com/windows" title="تنزيل GIMP">GIMP</a>
+</div>
+<div class="description">معدل صور بصرية قوي و مفتوح المصدر</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://deluge.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Deluge icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/1c5/614/1c5614d5f152a20a2d98f925fa2af670a875ecdde5978c8778c949878b0b403b"
+srcset="https://img.utdstc.com/icon/1c5/614/1c5614d5f152a20a2d98f925fa2af670a875ecdde5978c8778c949878b0b403b:100 1x, https://img.utdstc.com/icon/1c5/614/1c5614d5f152a20a2d98f925fa2af670a875ecdde5978c8778c949878b0b403b:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://deluge.ar.uptodown.com/windows" title="تنزيل Deluge">Deluge</a>
+</div>
+<div class="description">واحد من أسرع عملاء P2P الآن للويندوز</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://any-video-converter.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Any Video Converter icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/322/b3b/322b3b522b18d16953d1c5465c5b770ee21e8b4e7db3b4d0b66fc4e2d04a5b99"
+srcset="https://img.utdstc.com/icon/322/b3b/322b3b522b18d16953d1c5465c5b770ee21e8b4e7db3b4d0b66fc4e2d04a5b99:100 1x, https://img.utdstc.com/icon/322/b3b/322b3b522b18d16953d1c5465c5b770ee21e8b4e7db3b4d0b66fc4e2d04a5b99:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://any-video-converter.ar.uptodown.com/windows" title="تنزيل Any Video Converter">Any Video Converter</a>
+</div>
+<div class="description">محول دفعة ملفات فيديو سريع وسهل</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://formatfactory.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="FormatFactory icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/5a8/799/5a8799304aac8eb117069578dca7f079de13fcabf5140da1453d7f787335e792"
+srcset="https://img.utdstc.com/icon/5a8/799/5a8799304aac8eb117069578dca7f079de13fcabf5140da1453d7f787335e792:100 1x, https://img.utdstc.com/icon/5a8/799/5a8799304aac8eb117069578dca7f079de13fcabf5140da1453d7f787335e792:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://formatfactory.ar.uptodown.com/windows" title="تنزيل FormatFactory">FormatFactory</a>
+</div>
+<div class="description">تحويل صيغ الفيديو، الصوت و الصورة.</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://xbmc.ar.uptodown.com/windows';
+addEventAnalytics('floatingCategory', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Kodi icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/d8a/f98/d8af9846768e8776b0468346d0ad0ee5519c55c986fb5a0e97dabc574a91f0ae"
+srcset="https://img.utdstc.com/icon/d8a/f98/d8af9846768e8776b0468346d0ad0ee5519c55c986fb5a0e97dabc574a91f0ae:100 1x, https://img.utdstc.com/icon/d8a/f98/d8af9846768e8776b0468346d0ad0ee5519c55c986fb5a0e97dabc574a91f0ae:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://xbmc.ar.uptodown.com/windows" title="تنزيل Kodi">Kodi</a>
+</div>
+<div class="description">مركز الوسائط المتميز</div>
+</div>
+</div>
+</section>
+<section name="item-row-section"
+class="item-row ">
+<div class="title-row">
+<a style="pointer-events: none; cursor: default;" name="item-section-anchor" class="title" href="https://ar.uptodown.com/windows/connection">
+<h2>مماثل لـ Psiphon</h2>
+</a>
+</div>
+<div class="content">
+<div class="item">
+<figure
+onclick="
+location.href='https://hotspot-shield.ar.uptodown.com/windows';
+addEventAnalytics('similar', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Hotspot Shield VPN icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/3ed/979/3ed979020d445322eb4d0a0c45828790ce829b5ad7fa16105a2dfa135ba24154"
+srcset="https://img.utdstc.com/icon/3ed/979/3ed979020d445322eb4d0a0c45828790ce829b5ad7fa16105a2dfa135ba24154:100 1x, https://img.utdstc.com/icon/3ed/979/3ed979020d445322eb4d0a0c45828790ce829b5ad7fa16105a2dfa135ba24154:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://hotspot-shield.ar.uptodown.com/windows" title="تنزيل Hotspot Shield VPN">Hotspot Shield VPN</a>
+</div>
+<div class="description">تصفح الإنترنت بشكل آمن ومجهول</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://tor.ar.uptodown.com/windows';
+addEventAnalytics('similar', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Tor Browser icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/79d/90d/79d90d12e5788779bcf90a14b3cbb7417891636a31caa01aa717ff781356c52c"
+srcset="https://img.utdstc.com/icon/79d/90d/79d90d12e5788779bcf90a14b3cbb7417891636a31caa01aa717ff781356c52c:100 1x, https://img.utdstc.com/icon/79d/90d/79d90d12e5788779bcf90a14b3cbb7417891636a31caa01aa717ff781356c52c:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://tor.ar.uptodown.com/windows" title="تنزيل Tor Browser">Tor Browser</a>
+</div>
+<div class="description">احمي خصوصيتك عند التصفح</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://internet-accelerator.ar.uptodown.com/windows';
+addEventAnalytics('similar', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Internet Accelerator icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/d37/7f4/d377f4d7935a34e2da889c30e3b829410e2eb19c63428a33191353a63d70e837"
+srcset="https://img.utdstc.com/icon/d37/7f4/d377f4d7935a34e2da889c30e3b829410e2eb19c63428a33191353a63d70e837:100 1x, https://img.utdstc.com/icon/d37/7f4/d377f4d7935a34e2da889c30e3b829410e2eb19c63428a33191353a63d70e837:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://internet-accelerator.ar.uptodown.com/windows" title="تنزيل Internet Accelerator">Internet Accelerator</a>
+</div>
+<div class="description">زوّد من سرعة أي تغطية للإنترنت في غضون ثوان</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://intel-unison.ar.uptodown.com/windows';
+addEventAnalytics('similar', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Intel Unison icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/c1b/348/c1b3486bd7c4f547973883280ef8494387b1537352993fafb946ca38a9deec45"
+srcset="https://img.utdstc.com/icon/c1b/348/c1b3486bd7c4f547973883280ef8494387b1537352993fafb946ca38a9deec45:100 1x, https://img.utdstc.com/icon/c1b/348/c1b3486bd7c4f547973883280ef8494387b1537352993fafb946ca38a9deec45:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://intel-unison.ar.uptodown.com/windows" title="تنزيل Intel Unison">Intel Unison</a>
+</div>
+<div class="description">قم بتوصيل جهاز الكمبيوتر الخاص بك بهاتفك الذكي</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://connectify-hotspot.ar.uptodown.com/windows';
+addEventAnalytics('similar', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Connectify Hotspot icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/a83/e13/a83e138f48416dab2f250ef61fd6eabf174e752c6e967e99cf4e751331d9f8ff"
+srcset="https://img.utdstc.com/icon/a83/e13/a83e138f48416dab2f250ef61fd6eabf174e752c6e967e99cf4e751331d9f8ff:100 1x, https://img.utdstc.com/icon/a83/e13/a83e138f48416dab2f250ef61fd6eabf174e752c6e967e99cf4e751331d9f8ff:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://connectify-hotspot.ar.uptodown.com/windows" title="تنزيل Connectify Hotspot">Connectify Hotspot</a>
+</div>
+<div class="description">حول حاسوبك إلى مكرر لإشارات ال WiFi</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://speedify.ar.uptodown.com/windows';
+addEventAnalytics('similar', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Speedify icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/088/137/0881379b6a30842b6befd9b0670f0cc72479c44b5c741b3cdbce1dc644971c85"
+srcset="https://img.utdstc.com/icon/088/137/0881379b6a30842b6befd9b0670f0cc72479c44b5c741b3cdbce1dc644971c85:100 1x, https://img.utdstc.com/icon/088/137/0881379b6a30842b6befd9b0670f0cc72479c44b5c741b3cdbce1dc644971c85:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://speedify.ar.uptodown.com/windows" title="تنزيل Speedify">Speedify</a>
+</div>
+<div class="description">الإبحار بدون قيود</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://who-is-on-my-wifi.ar.uptodown.com/windows';
+addEventAnalytics('similar', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Who Is On My WiFi? icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/b3d/b4a/b3db4abf1ff70055da84e85fd5c462c36d906c78faad5b9a644c5f8bb2072d20"
+srcset="https://img.utdstc.com/icon/b3d/b4a/b3db4abf1ff70055da84e85fd5c462c36d906c78faad5b9a644c5f8bb2072d20:100 1x, https://img.utdstc.com/icon/b3d/b4a/b3db4abf1ff70055da84e85fd5c462c36d906c78faad5b9a644c5f8bb2072d20:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://who-is-on-my-wifi.ar.uptodown.com/windows" title="تنزيل Who Is On My WiFi?">Who Is On My WiFi?</a>
+</div>
+<div class="description">من متصل بشبكة الوايفاي الخاصة بك؟</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://openvpn-connect.ar.uptodown.com/windows';
+addEventAnalytics('similar', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="OpenVPN Connect icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/5a6/656/5a6656919821af67f3ef956edba530ca5d1db2c1bd32d8bc7a7c3177520ea455"
+srcset="https://img.utdstc.com/icon/5a6/656/5a6656919821af67f3ef956edba530ca5d1db2c1bd32d8bc7a7c3177520ea455:100 1x, https://img.utdstc.com/icon/5a6/656/5a6656919821af67f3ef956edba530ca5d1db2c1bd32d8bc7a7c3177520ea455:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://openvpn-connect.ar.uptodown.com/windows" title="تنزيل OpenVPN Connect">OpenVPN Connect</a>
+</div>
+<div class="description">OpenVPN</div>
+</div>
+</div>
+</section>
+<section name="item-row-section"
+class="item-row ">
+<div class="title-row">
+<a style="pointer-events: none; cursor: default;" name="item-section-anchor" class="title" href="https://ar.uptodown.com/windows/internet">
+<h2>اكتشف تطبيقات الإنترنت</h2>
+</a>
+<button name="item-section-more" type="button" class="more"
+onclick="addEventAnalytics('item-viewMore', {'event_category': 'item'});">
+<img alt="عرض المزيد" width="10" height="26"
+src="https://stc.utdstc.com/img/svgs/icon-bar-arrow.svg"
+>
+</button>
+</div>
+<div class="content">
+<div class="item">
+<figure
+onclick="
+location.href='https://adobe-flash-player.ar.uptodown.com/windows';
+addEventAnalytics('news', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Adobe Flash Player icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/86c/541/86c541a770da4d327fa2dd9b08ee01550615bfa4b9e76154c31bcea6988f18d7"
+srcset="https://img.utdstc.com/icon/86c/541/86c541a770da4d327fa2dd9b08ee01550615bfa4b9e76154c31bcea6988f18d7:100 1x, https://img.utdstc.com/icon/86c/541/86c541a770da4d327fa2dd9b08ee01550615bfa4b9e76154c31bcea6988f18d7:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://adobe-flash-player.ar.uptodown.com/windows" title="تنزيل Adobe Flash Player">Adobe Flash Player</a>
+</div>
+<div class="description">قدم بتشغيل الرسوم المتحركة من نوع فلاش على متصفح الويب الخاص بك</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://snapchat.ar.uptodown.com/windows';
+addEventAnalytics('news', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Snapchat icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/ead/95c/ead95c2721793980cce876ee466f9afd2418d37030530832a59070a425f0daa2"
+srcset="https://img.utdstc.com/icon/ead/95c/ead95c2721793980cce876ee466f9afd2418d37030530832a59070a425f0daa2:100 1x, https://img.utdstc.com/icon/ead/95c/ead95c2721793980cce876ee466f9afd2418d37030530832a59070a425f0daa2:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://snapchat.ar.uptodown.com/windows" title="تنزيل Snapchat">Snapchat</a>
+</div>
+<div class="description">قم بالوصول إلى سناب شات من الوينذوز</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://proton-vpn.ar.uptodown.com/windows';
+addEventAnalytics('news', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Proton VPN icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/91b/66c/91b66c23493ed61a26cb7a130a9d297b29e8e9933cbb5c764ed2e2d8476126bb"
+srcset="https://img.utdstc.com/icon/91b/66c/91b66c23493ed61a26cb7a130a9d297b29e8e9933cbb5c764ed2e2d8476126bb:100 1x, https://img.utdstc.com/icon/91b/66c/91b66c23493ed61a26cb7a130a9d297b29e8e9933cbb5c764ed2e2d8476126bb:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://proton-vpn.ar.uptodown.com/windows" title="تنزيل Proton VPN">Proton VPN</a>
+</div>
+<div class="description">شبكة VPN قوية ،مجانية ،آمنة ،وغير محدودة</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://facebook-desktop.ar.uptodown.com/windows';
+addEventAnalytics('news', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Facebook Desktop icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/ab2/486/ab24863b14a3c5396db48fdf5a2eac9072bfa1ba7c12f1b554ac9a6a26c0b3d6"
+srcset="https://img.utdstc.com/icon/ab2/486/ab24863b14a3c5396db48fdf5a2eac9072bfa1ba7c12f1b554ac9a6a26c0b3d6:100 1x, https://img.utdstc.com/icon/ab2/486/ab24863b14a3c5396db48fdf5a2eac9072bfa1ba7c12f1b554ac9a6a26c0b3d6:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://facebook-desktop.ar.uptodown.com/windows" title="تنزيل Facebook Desktop">Facebook Desktop</a>
+</div>
+<div class="description">ها قد صار بإمكانك الاستمتاع بفيسبوك على سطح مكتبك</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://internet-download-acelerator.ar.uptodown.com/windows';
+addEventAnalytics('news', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Internet Download Acelerator icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/5e6/8b4/5e68b4d10c8e64dd38f159033cc35977d655398a62828dd84282071709846426"
+srcset="https://img.utdstc.com/icon/5e6/8b4/5e68b4d10c8e64dd38f159033cc35977d655398a62828dd84282071709846426:100 1x, https://img.utdstc.com/icon/5e6/8b4/5e68b4d10c8e64dd38f159033cc35977d655398a62828dd84282071709846426:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://internet-download-acelerator.ar.uptodown.com/windows" title="تنزيل Internet Download Acelerator">Internet Download Acelerator</a>
+</div>
+<div class="description">قم بتسريع عمليات التحميل الخاصة بك</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://dns-jumper.ar.uptodown.com/windows';
+addEventAnalytics('news', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="DNS Jumper icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/33c/b67/33cb67080edefaba416a44fbe88d735ac7410099d8281f7c9a637b0f1032ea2f"
+srcset="https://img.utdstc.com/icon/33c/b67/33cb67080edefaba416a44fbe88d735ac7410099d8281f7c9a637b0f1032ea2f:100 1x, https://img.utdstc.com/icon/33c/b67/33cb67080edefaba416a44fbe88d735ac7410099d8281f7c9a637b0f1032ea2f:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://dns-jumper.ar.uptodown.com/windows" title="تنزيل DNS Jumper">DNS Jumper</a>
+</div>
+<div class="description">غير إعدادات DNS (نظام اسم المجال) خاصتك بنقرة زر لا غير</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://free-download-manager.ar.uptodown.com/windows';
+addEventAnalytics('news', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Free Download Manager icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/7a7/d34/7a7d34ea8edb12f45bf43584c818bbd20aeede4b1489e9cd7ba1ee89a05a1503"
+srcset="https://img.utdstc.com/icon/7a7/d34/7a7d34ea8edb12f45bf43584c818bbd20aeede4b1489e9cd7ba1ee89a05a1503:100 1x, https://img.utdstc.com/icon/7a7/d34/7a7d34ea8edb12f45bf43584c818bbd20aeede4b1489e9cd7ba1ee89a05a1503:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://free-download-manager.ar.uptodown.com/windows" title="تنزيل Free Download Manager">Free Download Manager</a>
+</div>
+<div class="description">قم برفع سرعة تنزيلك من على الإنترنت</div>
+</div>
+<div class="item">
+<figure
+onclick="
+location.href='https://urban-vpn.ar.uptodown.com/windows';
+addEventAnalytics('news', {'event_category': 'item'}); "
+>
+<img
+width="100px"
+height="100px"
+loading="lazy" alt="Urban VPN icon"
+class="app_card_img"
+src="https://img.utdstc.com/icon/fc3/9fa/fc39fa571cae80544c0e4a61c651020a770b957fbcfd0222dba9b3c19e5c3fd8"
+srcset="https://img.utdstc.com/icon/fc3/9fa/fc39fa571cae80544c0e4a61c651020a770b957fbcfd0222dba9b3c19e5c3fd8:100 1x, https://img.utdstc.com/icon/fc3/9fa/fc39fa571cae80544c0e4a61c651020a770b957fbcfd0222dba9b3c19e5c3fd8:200 2x "
+>
+</figure>
+<div class="name">
+<a href="https://urban-vpn.ar.uptodown.com/windows" title="تنزيل Urban VPN">Urban VPN</a>
+</div>
+<div class="description">VPN نسخة ممتازة مجانية من أجل الإبحار المجهول.</div>
+</div>
+</div>
+</section>
+<nav id="left-panel-id" class="nav-main close">
+<div class="header">
+<div id="cross-close-left-panel">
+<img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-bar-close.svg">
+</div>
+<div id="lang-selector-id" class="my-lang" code="ar">
+<span class="lang">AR</span>
+العربية </div>
+<div id="back-button-language-list" style="display:none" class="left">
+<img loading="lazy" alt="" width="14" height="20" src="https://stc.utdstc.com/img/svgs/icon-bar-arrow.svg">
+</div>
+</div>
+<div id="main-left-panel-ul-id">
+<div id="reg-log-item-id" class="li reg-log">
+<div id="registerLoginButton" data-login-url="https://ar.uptodown.com/login">
+<img loading="lazy" alt="" width="26" height="30" src="https://stc.utdstc.com/img/svgs/icon-20-user.svg">
+تسجيل الدخول أو تسجيل الاشتراك</div>
+</div>
+<div id="platform-item" class="li windows active">
+<a href="https://ar.uptodown.com/windows">
+<img alt="Windows" loading=lazy width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-20-windows.svg">
+Windows</a>
+</div>
+<div>
+<div class="li"><a href="https://ar.uptodown.com/windows/utilities">الأدوات</a></div>
+<div class="li"><a href="https://ar.uptodown.com/windows/business">الأعمال</a></div>
+<div class="li"><a href="https://ar.uptodown.com/windows/games">الألعاب</a></div>
+<div class="li"><a href="https://ar.uptodown.com/windows/personal">الأمور الشخصية</a></div>
+<div class="li"><a href="https://ar.uptodown.com/windows/internet">الإنترنت</a></div>
+<div class="li"><a href="https://ar.uptodown.com/windows/education">التعليم</a></div>
+<div class="li"><a href="https://ar.uptodown.com/windows/audio">الصوتيات</a></div>
+<div class="li"><a href="https://ar.uptodown.com/windows/photo-design">الصور و التصاميم</a></div>
+<div class="li"><a href="https://ar.uptodown.com/windows/video">الفيديو</a></div>
+<div class="li"><a href="https://ar.uptodown.com/windows/development">تطوير البرمجيات</a></div>
+<div class="li"><a href="https://ar.uptodown.com/windows/desktop">حاسوب مكتبي</a></div>
+</div>
+<div id="platform-item" class="li mac ">
+<a href="https://ar.uptodown.com/mac">
+<img alt="mac" loading=lazy width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-20-mac.svg">
+Mac</a>
+</div>
+<div id="platform-item" class="li android ">
+<a href="https://ar.uptodown.com/android">
+<img alt="android" loading=lazy width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-20-android.svg">
+Android</a>
+</div>
+<div class="li"><a href="https://blog.en.uptodown.com/"><img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-20-blog.svg">Blog</a></div>
+<div class="li"><a href="https://uptodown-android.ar.uptodown.com/android"><img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-20-store.svg">Uptodown app</a></div>
+</div>
+<div id="language-ul-id" class="change-lang" style="display:none;">
+<div class="li ">
+<a href="https://psiphon.en.uptodown.com/windows/download">
+<span class="lang">EN</span>
+English </a>
+</div>
+<div class="li ">
+<a href="https://psiphon.uptodown.com/windows/descargar">
+<span class="lang">ES</span>
+Español </a>
+</div>
+<div class="li ">
+<a href="https://psiphon.br.uptodown.com/windows/download">
+<span class="lang">BR</span>
+Português </a>
+</div>
+<div class="li ">
+<a href="https://psiphon.de.uptodown.com/windows/download">
+<span class="lang">DE</span>
+Deutsch </a>
+</div>
+<div class="li ">
+<a href="https://psiphon.fr.uptodown.com/windows/telecharger">
+<span class="lang">FR</span>
+Français </a>
+</div>
+<div class="li ">
+<a href="https://psiphon.it.uptodown.com/windows/download">
+<span class="lang">IT</span>
+Italiano </a>
+</div>
+<div class="li ">
+<a href="https://psiphon.cn.uptodown.com/windows/download">
+<span class="lang">CN</span>
+中文 </a>
+</div>
+<div class="li ">
+<a href="https://psiphon.jp.uptodown.com/windows/download">
+<span class="lang">JP</span>
+日本語 </a>
+</div>
+<div class="li ">
+<a href="https://psiphon.ru.uptodown.com/windows/download">
+<span class="lang">RU</span>
+Pусский </a>
+</div>
+<div class="li ">
+<a href="https://psiphon.kr.uptodown.com/windows/download">
+<span class="lang">KR</span>
+한국어 </a>
+</div>
+<div class="li ">
+<a href="https://psiphon.id.uptodown.com/windows/download">
+<span class="lang">ID</span>
+B.Indonesia </a>
+</div>
+<div class="li active">
+<a href="https://psiphon.ar.uptodown.com/windows/download">
+<span class="lang">AR</span>
+العربية </a>
+</div>
+<div class="li ">
+<a href="https://psiphon.th.uptodown.com/windows/download">
+<span class="lang">TH</span>
+ภาษาไทย </a>
+</div>
+<div class="li ">
+<a href="https://psiphon.tr.uptodown.com/windows/download">
+<span class="lang">TR</span>
+Türkçe </a>
+</div>
+<div class="li ">
+<a href="https://psiphon.in.uptodown.com/windows/download">
+<span class="lang">IN</span>
+हिन्दी </a>
+</div>
+</div>
+</nav>
+<div id="right-panel-id" class="panel close">
+<div id="right-panel-header" class="header">
+<span id="titleRightPanel"></span>
+<div id="back-button-right-div"></div>
+<p id="cross-close-right-panel">
+<img loading="lazy" alt="" width="20" height="20" src="https://stc.utdstc.com/img/svgs/icon-bar-close.svg">
+</p>
+</div>
+<div id="contentRightPanel">
+</div>
+</div>
+<footer>
+<span class="logo">
+<img loading="lazy" alt="" width="200" height="31" src="https://stc.utdstc.com/img/svgs/logo-uptodown.svg">
+</span>
+<div>
+<p>حول Uptodown</p>
+<ul>
+<li><a href="https://en.uptodown.com/aboutus/uptodown">معلومات عنا</a></li>
+<li><a href="https://en.uptodown.com/stats">احصائيات</a></li>
+<li><a href="https://en.uptodown.com/aboutus/services">شروط الخدمة للمستخدمين</a></li>
+<li><a href="https://en.uptodown.com/aboutus/privacy">قوانين الخصوصية وملفات تعريف الارتباط (الكوكيز)</a></li>
+<li><li><button id="csconsentlink" class="ot-sdk-btn ot-sdk-show-settings">إعدادات ملفات تعريف الارتباط</button></li></li>
+</ul>
+</div>
+<div>
+<p>المطورون</p>
+<ul>
+<li><a href="https://en.uptodown.com/developers-zone">أنشر تطبيقك</a></li>
+<li><a href="https://support.uptodown.com/hc/en-us/articles/4424141383181">مركز المساعدة للمطورين</a></li>
+<li><a href="https://en.uptodown.com/developers-zone/services">شروط الخدمة للمطورين</a></li>
+<li><a href="https://distribute.dashboard.unity.com/udp/guideDoc/UPTODOWN">بوابة وحدة التوزيع</a></li>
+<li><a href="https://en.uptodown.com/dmca">قانون الألفية الرقمية لحقوق المؤلف (DMCA)</a></li>
+</ul>
+</div>
+<div>
+<p>التواصل</p>
+<ul>
+<li><div id="contact-us-anchor">للاتصال بنا</div></li>
+<li><a href="https://uptodown.factorialhr.es/">وظائف شاغرة</a></li>
+</ul>
+<div class="social">
+<a title="Uptodown Twitter URL" href="https://twitter.com/uptodown_es">
+<img loading="lazy" alt="" width="24" height="24" src="https://stc.utdstc.com/img//social/twitter.svg">
+</a>
+<a title="Uptodown Facebook URL" href="https://www.facebook.com/Uptodown">
+<img loading="lazy" alt="" width="24" height="24" src="https://stc.utdstc.com/img//social/facebook.svg">
+</a>
+<a title="Uptodown YouTube URL" href="https://www.youtube.com/uptodown">
+<img loading="lazy" alt="" width="24" height="24" src="https://stc.utdstc.com/img//social/youtube.svg">
+</a>
+<a title="Uptodown LinkedIn URL" href="https://www.linkedin.com/company/uptodown/">
+<img loading="lazy" alt="" width="24" height="24" src="https://stc.utdstc.com/img//social/linkedin.svg">
+</a>
+<a title="Uptodown Instagram URL" href="https://instagram.com/uptodown">
+<img loading="lazy" alt="" width="24" height="24" src="https://stc.utdstc.com/img//social/instagram.svg">
+</a>
+<a title="Uptodown Mastodon URL" href="https://mastodon.online/@uptodown" rel="me">
+<img loading="lazy" alt="" width="24" height="24" src="https://stc.utdstc.com/img//social/mastodon.svg">
+</a>
+</div>
+</div>
+</footer>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DW5XRK7GYT"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-DW5XRK7GYT');
+function addEventAnalytics(eventName, arguments) {
+gtag('event', eventName, arguments)
+}
+</script>
+</div>
+</body>
+</html>

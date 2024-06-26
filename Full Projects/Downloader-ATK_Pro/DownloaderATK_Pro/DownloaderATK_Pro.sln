@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloaderATK_Pro", "DownloaderATK_Pro\DownloaderATK_Pro.csproj", "{C22A83C5-2627-4530-B5B5-746DE659ABD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C22A83C5-2627-4530-B5B5-746DE659ABD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22A83C5-2627-4530-B5B5-746DE659ABD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22A83C5-2627-4530-B5B5-746DE659ABD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22A83C5-2627-4530-B5B5-746DE659ABD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12C69815-F36A-4A51-84B7-2521E62340B2}
+	EndGlobalSection
+EndGlobal

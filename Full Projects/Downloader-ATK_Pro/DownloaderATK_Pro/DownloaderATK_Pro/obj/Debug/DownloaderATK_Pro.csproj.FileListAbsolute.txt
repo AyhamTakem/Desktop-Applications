@@ -1,0 +1,14 @@
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\bin\Debug\DownloaderATK_Pro.exe.config
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\bin\Debug\DownloaderATK_Pro.exe
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\bin\Debug\DownloaderATK_Pro.pdb
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\obj\Debug\DownloaderATK_Pro.Form1.resources
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\obj\Debug\DownloaderATK_Pro.Properties.Resources.resources
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\obj\Debug\DownloaderATK_Pro.csproj.GenerateResource.cache
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\obj\Debug\DownloaderATK_Pro.csproj.CoreCompileInputs.cache
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\obj\Debug\DownloaderATK_Pro.exe
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\obj\Debug\DownloaderATK_Pro.pdb
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\bin\Debug\AltoHttp.dll
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\bin\Debug\Newtonsoft.Json.dll
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\bin\Debug\Newtonsoft.Json.xml
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\obj\Debug\DownloaderATK_Pro.csproj.CopyComplete
+D:\مشاريع C#\مشروع برنامج تحميل متقدم\DownloaderATK_Pro\DownloaderATK_Pro\obj\Debug\DownloaderATK_Pro.csproj.AssemblyReference.cache
