@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{08A66C11-BBD9-4CA3-A097-7ECA2DF2A571}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AyhamTKDVDMangment</RootNamespace>
+    <AssemblyName>AyhamTKDVDMangment</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>C:\Users\Ayham\Desktop\بونفيو لواحق للفيجول\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_ADDCAT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_ADDCAT.Designer.cs">
+      <DependentUpon>FRM_ADDCAT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_ADDDVD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_ADDDVD.Designer.cs">
+      <DependentUpon>FRM_ADDDVD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_DDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_DDelete.Designer.cs">
+      <DependentUpon>FRM_DDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_DDetaelse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_DDetaelse.Designer.cs">
+      <DependentUpon>FRM_DDetaelse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_DEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_DEdit.Designer.cs">
+      <DependentUpon>FRM_DEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_DEror.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_DEror.Designer.cs">
+      <DependentUpon>FRM_DEror.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_DADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_DADD.Designer.cs">
+      <DependentUpon>FRM_DADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_ADDCAT.resx">
+      <DependentUpon>FRM_ADDCAT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_ADDDVD.resx">
+      <DependentUpon>FRM_ADDDVD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_DDelete.resx">
+      <DependentUpon>FRM_DDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_DDetaelse.resx">
+      <DependentUpon>FRM_DDetaelse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_DEdit.resx">
+      <DependentUpon>FRM_DEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_DEror.resx">
+      <DependentUpon>FRM_DEror.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_DADD.resx">
+      <DependentUpon>FRM_DADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DBDVD.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DBDVD_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>DBDVD.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
